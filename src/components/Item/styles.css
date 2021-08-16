@@ -1,0 +1,11 @@
+.item{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.text{
+    text-align: center;
+    width: 100px;
+    padding: 20px;
+}

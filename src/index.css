@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+input{
+    width: 196px;
+    margin-bottom: 5px;
+}
+
+.App{
+    height: 100vh
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 20px;
+}
+
+.filter{
+    display: grid;
+    justify-items: end;
+}
+
+.buttonSF{    
+    width: 200px;
+}
+
+.containerPagesBtns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pagesButton{
+    margin: 5px;
+    width: 30px;
+    height: 30px;
+}

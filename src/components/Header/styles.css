@@ -1,0 +1,7 @@
+.header{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    list-style-type: none;
+    justify-items: center;
+    margin-bottom: 30px;
+}
